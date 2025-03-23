@@ -35,7 +35,7 @@ The game displays the word with unguessed letters as underscores and provides fe
 
 ## Demo
 ![Hangman Demo](https://i.imgur.com/peBtSiS.gif)
-
+[Hangman Demo](https://i.imgur.com/peBtSiS.gif)
 
 ## License
 
